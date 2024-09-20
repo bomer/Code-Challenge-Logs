@@ -26,9 +26,8 @@ Run the following two commands:
 
 ## Sample output
 
-`For a total of users on the last two days, 632286, 631850
-Eligble Users: 60010
-
-real 0m2.087s
-user 0m2.148s
-sys 0m0.181s`
+> For a total of users on the last two days, 632286, 631850
+> Eligble Users: 60010
+> real 0m2.087s
+> user 0m2.148s
+> sys 0m0.181s
